@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.mobmundo.localmob"
+        minSdkVersion 16
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':facebookSDK')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:appcompat-v7:19.1.0'
+    compile files('libs/maps.jar')
+    compile files('libs/Parse-1.9.0.jar')
+    compile files('libs/ParseFacebookUtilsV4-1.9.0.jar')
+    compile files('libs/ParseCrashReporting-1.9.0.jar')
+}

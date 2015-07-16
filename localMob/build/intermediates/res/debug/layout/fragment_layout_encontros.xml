@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+
+    <!--
+    **************************IMPORTANT***********************************
+     change this id attribute values as "frag2_icon" <span class="ling_word-collected">and</span> "frag2_text" for
+     fragment_layout_two.xml <span class="ling_word-collected">and</span> "frag3_icon" <span class="ling_word-collected">and</span> "frag3_text" for
+     fragment_layout_three.xml
+    **********************************************************************
+      -->
+
+</LinearLayout>
+<!-- From: file:/D:/mobMundo/Projetos/Android/localMob/localMob/src/main/res/layout/fragment_layout_encontros.xml -->

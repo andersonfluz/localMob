@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/fl_novo_encontro" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tvEncontroCom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tvEncontroCom" />
+
+        <EditText
+            android:id="@+id/etContatoEncontro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10" />
+
+        <ImageView
+            android:id="@+id/imvPesquisarAmigo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_search_category_default" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tvOnde"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tvEncontroOnde" />
+
+        <EditText
+            android:id="@+id/etOnde"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+
+        <ImageView
+            android:id="@+id/imvPesquisarLocal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_search_category_default" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.9" >
+
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapOnde"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+            <!-- class="com.google.android.gms.maps.MapFragment" --> 
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/mobMundo/Projetos/Android/localMob/localMob/src/main/res/layout/fragment_layout_novo_encontro.xml -->

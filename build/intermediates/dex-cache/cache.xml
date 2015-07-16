@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\libs\maps.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="157cca501a2c9b5f7fe11f5a45793c25cb9283d4">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\maps-bb8c17dca1381955c55cf5ea68b8334a4d23b7f9.jar" />
+    </item>
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\classes-b0d9c2bf5e93e4931d3f9c3d1946245c64059ed2.jar" />
+    </item>
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\libs\Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\Parse-1.5.1-dcc6dcbde4da8e73eb2602c0684033ff7ffa25c3.jar" />
+    </item>
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\classes-dbbd3b933b3dde87f7b795b1f36c01408116a834.jar" />
+    </item>
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\exploded-aar\localMob\facebookSDK\unspecified\libs\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-67d6d6922fba72ee22da60d04145c27e6adf6f13.jar" />
+    </item>
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\exploded-aar\localMob\facebookSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7a750c66b2ebb8e07860483914831437bf7abb58">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\classes-4e81fb0947247f0dc2fa4686617a083e5542b563.jar" />
+    </item>
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-a567bafcda638fa1305b7379bad439b178180c47.jar" />
+    </item>
+    <item
+        jar="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\classes-b0897be8a6b5eefb5df0e723a753f50015224a72.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\mobMundo\Projetos\Android\localMob\localMob\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-892b5137c61b7abc511575015de224d00b13e92a.jar" />
+    </item>
+
+</items>

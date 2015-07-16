@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mobmundo.localmob.activity.HomeActivity" >
+
+    <item
+        android:id="@+id/new_meeting"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/tvConcluir"
+        android:icon="@drawable/abc_ic_cab_done_holo_light"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+
+</menu>
+<!-- From: file:/D:/mobMundo/Projetos/Android/localMob/localMob/src/main/res/menu/novo_encontro.xml -->
